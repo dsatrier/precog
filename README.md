@@ -1,4 +1,4 @@
-# Welcome to my guide to trying to get into PreCog!
+# README
 
 ## Introduction
 
@@ -13,8 +13,8 @@
 
 - I was unable to download the dataset from the official website, so I downloaded it from Kaggle, the link is below. The hateful memes dataset will download as a folder named data, which I renamed to hateful_memes.
 ### Task 1
-- Your directory should look like the following
-  /data  \
+- Your directory should look like the following\
+  data  \
     |--- img\
     |--- //other files in the dataset\
     |---task1.ipynb
