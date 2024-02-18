@@ -11,9 +11,20 @@
 
 ## Directory structure required
 
-- Run task1 from within hateful_memes
-- Run task2 from within first data and then hateful_memes
-- Run task3 from within fastai-v3
+- I was unable to download the dataset from the official website, so I downloaded it from Kaggle, the link is below. The hateful memes dataset will download as a folder named data, which I renamed to hateful_memes.
+### Task 1
+- Your directory should look like the following
+  data
+    |--- img
+    |--- //other files in the dataset
+    |---task1.ipynb
+
+### Task 2
+  - Your folder should look like the following
+    /data /hateful_memes task2.ipynb
+### Task 3
+- Your folder should look like the following
+  /fastai-v3 task3.ipynb
 
 ## Datasets Used
 - For Task 1 - https://www.kaggle.com/datasets/parthplc/facebook-hateful-meme-dataset?rvi=1
