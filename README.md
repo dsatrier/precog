@@ -14,16 +14,16 @@
 - I was unable to download the dataset from the official website, so I downloaded it from Kaggle, the link is below. The hateful memes dataset will download as a folder named data, which I renamed to hateful_memes.
 ### Task 1
 - Your directory should look like the following
-  data
-    |--- img
-    |--- //other files in the dataset
+  data  \
+    |--- img\
+    |--- //other files in the dataset\
     |---task1.ipynb
 
 ### Task 2
-  - Your folder should look like the following
+  - Your folder should look like the following\
     /data /hateful_memes task2.ipynb
 ### Task 3
-- Your folder should look like the following
+- Your folder should look like the following\
   /fastai-v3 task3.ipynb
 
 ## Datasets Used
